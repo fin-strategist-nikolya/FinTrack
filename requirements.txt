@@ -1,0 +1,5 @@
+# Required dependencies for the FinTrack project
+
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
