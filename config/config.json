@@ -1,0 +1,7 @@
+{
+  "stocks": [
+    {"symbol": "AAPL", "amount": 10},
+    {"symbol": "TSLA", "amount": 5},
+    {"symbol": "GOOGL", "amount": 8}
+  ]
+}
