@@ -42,3 +42,4 @@ Configure your portfolio in 'config/config.json'. You can add stock symbols and 
 
 ---
 
+Created by [@fin-strategist-nikolya](https://github.com/fin-strategist-nikolya/)
